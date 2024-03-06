@@ -23,5 +23,5 @@ class Alan {
 - My Personal Website (WIP)
 - [LinkedIn](https://linkedin.com/alanlzhang)
 - [Devpost](https://devpost.com/alanZhang0813)
-- [Chess.com](https://chess.com/member/alanzhang) (humor me)
+- [Chess.com](https://chess.com/member/alanzhang) (always up for a challenge!)
 
