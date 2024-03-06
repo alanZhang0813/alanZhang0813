@@ -13,11 +13,16 @@ class Alan {
             Arrays.asList("English", "Chinese", "Spanish"));
     ArrayList<String> software = new ArrayList<>(
             Arrays.asList("Intellij IDEA", "CLion", "WebStorm", "Visual Studio Code"));
+    Date birthday = new Date(8, 13);
+    
+    Book favoriteBook = new Book("The Dark Forest", "Cixin Liu");
     
     Project currentlyWorking = new Project("Full-Stack", "TypeScript", "MongoDB", "Python");
-    
-    Date birthday = new Date(8, 13);
 }
 ```
-
+### Find Me On:
+- My Personal Website (WIP)
+- [LinkedIn](https://linkedin.com/alanlzhang)
+- [Devpost](https://devpost.com/alanZhang0813)
+- [Chess.com](https://chess.com/member/alanzhang) (humor me)
 
