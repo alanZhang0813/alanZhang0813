@@ -7,7 +7,7 @@ student at Northeastern University.
 class Alan {
     static String pronouns = "he/him";
     ArrayList<String> code = new ArrayList<>(
-            Arrays.asList("Java"));
+            Arrays.asList("Java", "C++", "JavaScript", "CSS", "HTML", "React", "TypeScript", "C"));
     ArrayList<String> languages = new ArrayList<>(
             Arrays.asList("English", "Chinese", "Spanish"));
     ArrayList<String> software = new ArrayList<>(
