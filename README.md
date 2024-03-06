@@ -15,7 +15,9 @@ class Alan {
     Date birthday = new Date(8, 13);
     
     Book favoriteBook = new Book("The Dark Forest", "Cixin Liu");
-    
+
+    ArrayList<Language> nextToLearn = new ArrayList<>(
+            Arrays.asList(new Language("Python"), new Language("MongoDB")));
     Project currentlyWorking = new Project("Full-Stack", "TypeScript", "MongoDB", "Python");
 }
 ```
