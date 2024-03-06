@@ -2,7 +2,6 @@
 My name is Alan Zhang, and I am currently a second-year computer science
 student at Northeastern University.
 
-
 #### A Little About Me...
 ```java
 class Alan {
