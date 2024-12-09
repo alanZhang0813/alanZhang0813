@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Alan Zhang, and I am currently a second-year computer science
+My name is Alan Zhang, and I am currently a third-year computer science
 student at Northeastern University.
 
 #### A Little About Me...
@@ -7,7 +7,7 @@ student at Northeastern University.
 class Alan {
     static String pronouns = "he/him";
     ArrayList<String> code = new ArrayList<>(
-            Arrays.asList("Java", "C++", "JavaScript", "CSS", "HTML", "React", "TypeScript", "C"));
+            Arrays.asList("Java", "C++", "JavaScript", "CSS", "HTML", "React", "TypeScript", "C", "Swift"));
     ArrayList<String> languages = new ArrayList<>(
             Arrays.asList("English", "Chinese", "Spanish"));
     ArrayList<String> software = new ArrayList<>(
