@@ -22,7 +22,7 @@ class Alan {
 }
 ```
 ### Find Me On:
-- My Personal Website (WIP)
+- [My Personal Website](https://alanzhang0813.github.io/)
 - [LinkedIn](https://linkedin.com/alanlzhang)
 - [Devpost](https://devpost.com/alanZhang0813)
 - [Chess.com](https://chess.com/member/alanzhang) (always up for a challenge!)
