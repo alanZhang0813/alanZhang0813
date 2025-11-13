@@ -12,7 +12,6 @@ class Alan {
             Arrays.asList("English", "Chinese", "Spanish"));
     ArrayList<String> software = new ArrayList<>(
             Arrays.asList("Intellij IDEA", "CLion", "WebStorm", "Visual Studio Code"));
-    Date birthday = new Date(8, 13);
     
     Book favoriteBook = new Book("The Dark Forest", "Cixin Liu");
 
